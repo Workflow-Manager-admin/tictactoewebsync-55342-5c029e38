@@ -23,3 +23,39 @@ modules by path ./.ve/ 15.1 KiB
     ./node_modules/css-loader/dist/cjs.js!./.ve/EditorOverlay.css 697 bytes [built] [code generated]
   ./.ve/EditorOverlay.jsx 1.58 KiB [built] [code generated]
 webpack 5.99.9 compiled successfully in 4676 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.4 MiB
+  asset bundle.js 1.39 MiB [emitted] (name: main)
+  asset main.2cf38d7d3a020c15773f.hot-update.js 4.96 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.2cf38d7d3a020c15773f.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.4 MiB = bundle.js 1.39 MiB main.2cf38d7d3a020c15773f.hot-update.js 4.96 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 2.49 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 372 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.4 MiB
+  asset bundle.js 1.39 MiB [emitted] (name: main)
+  asset main.db0382646d0f54d7e0e8.hot-update.js 7 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.db0382646d0f54d7e0e8.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.4 MiB = bundle.js 1.39 MiB main.db0382646d0f54d7e0e8.hot-update.js 7 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 4.43 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 122 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.44 MiB
+  asset bundle.js 1.42 MiB [emitted] (name: main)
+  asset main.b8977ea45983f5124a65.hot-update.js 28.3 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.b8977ea45983f5124a65.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.44 MiB = bundle.js 1.42 MiB main.b8977ea45983f5124a65.hot-update.js 28.3 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 17 KiB
+  ./src/App.js 9.3 KiB [built] [code generated]
+  ./src/GameBoard.js 935 bytes [built] [code generated]
+  ./src/GameControls.js 3.06 KiB [built] [code generated]
+  ./src/GameStatus.js 2.19 KiB [built] [code generated]
+  ./src/MoveHistory.js 1.11 KiB [built] [code generated]
+  ./src/Notification.js 439 bytes [built] [code generated]
+webpack 5.99.9 compiled successfully in 1097 ms
